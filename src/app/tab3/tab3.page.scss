@@ -1,0 +1,17 @@
+
+img {
+    display:flex;
+    border-radius: 50%;
+    position:inherit;
+    bottom: calc(-1*(80px + 18px));
+    border: 4px solid #9Dc912;
+    background-color: #fff;
+}
+ion-header{
+    width:-900px;
+    height: -900px;
+    position:absolute;
+    margin: 0 auto;
+}
+
+
